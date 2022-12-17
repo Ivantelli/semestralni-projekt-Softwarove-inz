@@ -1,11 +1,10 @@
-# PredikceObleceniDlePocasi
-
-Desktopová aplikace, co doporučuje vhodné oblečení dle počasí.
+# semestralni_projekt_vse
+Desktopová aplikace s GUI, API a databází, co doporučuje vhodné oblečení dle počasí.
 
 ## Getting started
 
 Ke spuštění aplikace je potřeba nastavit Javu na 8. verzi
 
-## Varování
+## Wiki
 
-26. 1. 2022 byl odebrán OpenWeatherMap API klíč
+V tomto repozitaři distupna Wiki s celým popisem projektu
